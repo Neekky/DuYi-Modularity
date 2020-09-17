@@ -9,6 +9,6 @@
 // var arr = [3,4,6,6,7];
 // arr.print();
 
-import * as m from "./m.js"
+import * as m from "./module/m.js"
 
 console.log(m)
